@@ -1,0 +1,150 @@
+{
+  "default": {
+    "width": 1280,
+    "height": 720,
+    "framesPerSecond": 20,
+    "maxDuration": 300,
+    "samplesPerFrame": 128,
+    "pattern": "wave",
+    "waveTop": 150,
+    "waveBottom": 420,
+    "captionTop": 470,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionLeft": 200,
+    "captionRight": 1080
+  },
+  "Adelaide": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "adelaide.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Brisbane": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "brisbane.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Canberra": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "canberra.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Darwin": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "darwin.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Hobart": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "hobart.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Melbourne": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "melbourne.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Perth": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "perth.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Sydney": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "sydney.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Radio National": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "rn.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "RN Reboot Your Life": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "rnreboot.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "RN Short and Curly": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "rnshortcurly.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "RN The Real Thing": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d"
+	"captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "rnrealthing.jpg",
+    "waveBottom": 660,
+    "waveTop": 320
+  }
+}
